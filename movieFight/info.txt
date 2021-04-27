@@ -1,0 +1,41 @@
+Movie fight where the user can search for a movie and the details will come up
+search for a movie               search for a movie
+The Dark Knight                  The Avengers
+Box Office                       Box office 
+Critic Rating                    Critic Rating                            
+We gonna compare them with diffrent color statistics 
+like who ever has made more money
+search movie will have the tiles shows 
+auto complete widget
+and we will deploy it 
+
+Plan
+ Setup boilerplate for the project
+ Identify challenging aspects of the project we are about tp work on
+ Get started on the project and writete a lot of code
+
+Big challenges
+We need to somehow fetch data about movies ->  We should attempt to fetch some data movies from our JS code 
+we need to build that autocompleted widget from srcatch -> We should sit down and write out a list of rules that describes how or autocomplete works
+This app would be a lot better with some styling + css! -> The starter kit we just set up has a css framework called bulma css already wired up
+
+Show Action Result  ----- list Action Result
+Google for results        Google when searched for soemthing 
+needs to be clicked        list of sites 
+
+API key was found now we have to a search opration on basis of that api key
+
+Widget Imgination and way of working life cycle of the widget should be thought of first 
+
+Limited search query so very carefull use 
+
+Widget for autocomplete
+for html
+<div class="autocomplete"></div>
+for JS
+code to:
+select the autocomplete div
+create input
+handle the input
+Do searchadd in html for menu
+add in options to menu 
